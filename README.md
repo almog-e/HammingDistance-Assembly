@@ -67,17 +67,14 @@ Exiting program. Goodbye!
 ---
 
 ## **Screenshots**
-- **Compilation:**
+- **Program Input:**
 
-  ![Compilation](screenshots/1.png)
+  ![Program Input](screenshots/1.png)
 
 - **Program Input:**
 
   ![Program Input](screenshots/2.png)
 
-- **Result Display:**
-
-  ![Result Display](screenshots/3.png)
 
 
 ---
