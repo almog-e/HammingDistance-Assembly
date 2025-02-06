@@ -25,9 +25,7 @@ project-folder/
 ├── README.md
 └── screenshots/
     ├── 1.png
-    ├── 2.png
-    └── 3.png
-
+    └── 2.png
 ```
 
 ---
